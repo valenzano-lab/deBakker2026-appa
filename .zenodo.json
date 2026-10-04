@@ -1,0 +1,11 @@
+{
+  "title": "deBakker2026-appa: Bayesian analysis of appa genotype effect on pE11 and 4G8 immunoreactivity",
+  "description": "Data, Stan model and R script reproducing the Bayesian estimates of the appa genotype effect on pE11 and 4G8 immunoreactivity in the anterior rhombencephalon and hypothalamus superior lobe of 6-month-old turquoise killifish (de Bakker et al., Nature Aging, 2026).",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "de Bakker, Dennis"},
+    {"name": "Valenzano, Dario Riccardo"}
+  ],
+  "keywords": ["turquoise killifish", "Nothobranchius furzeri", "appa", "amyloid beta", "pE11", "4G8", "Bayesian hierarchical model", "Stan"]
+}
