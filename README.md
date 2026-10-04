@@ -1,5 +1,7 @@
 # appa genotype effect on pE11 and 4G8 immunoreactivity
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23138739.svg)](https://doi.org/10.5281/zenodo.23138739)
+
 Data and code for the Bayesian analysis of pE11 and 4G8 immunoreactivity in
 6-month-old *appa*+/+ and *appa*−/− turquoise killifish brains (de Bakker et al., *Nature Aging*, 2026).
 
@@ -55,3 +57,7 @@ seed 1234) and writes to `results/`:
 | 4G8  | HSL | 0.47 | [−0.01, 0.94] | 0.95 |
 
 All chains converged (R̂ ≤ 1.005, no divergent transitions).
+
+## Citation
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23138739 (all versions; v1.0.0: https://doi.org/10.5281/zenodo.23138740).
